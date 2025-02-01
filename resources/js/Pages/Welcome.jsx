@@ -55,12 +55,6 @@ export default function Welcome({ auth, laravelVersion, phpVersion }) {
                                         Laravel Chat Application
                                     </h2>
 
-                                    <p className="mt-4 text-gray-500 dark:text-gray-400 text-sm leading-relaxed">
-                                        This is a simple chat application built with Laravel, InertiaJS, and ReactJS. <br />
-                                        <a href="https://github.com/raprmdn/laravel-chat-app" className="underline hover:text-gray-700 dark:hover:text-white focus:outline focus:outline-2 focus:rounded-sm focus:outline-red-500">
-                                            https://github.com/raprmdn/laravel-chat-app
-                                        </a>
-                                    </p>
                                 </div>
                             </div>
                         </div>
