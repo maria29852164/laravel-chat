@@ -9,7 +9,7 @@ Clone the repository
 Go to the project directory
 
 ```bash
-cd laravel-chat-app
+cd laravel-chat
 ```
 
 Install dependencies
